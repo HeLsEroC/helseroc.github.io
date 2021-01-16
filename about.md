@@ -3,7 +3,6 @@ layout: page
 title: About
 ---
 
-I am Wissem Marzouki a Software Developer from Tunisia, who enjoys reverse
-engineering and watching anime.
+My name is Wissem Marzouki and I am a self-taught Software Developer.
 
 Thanks for joining!
